@@ -1,0 +1,820 @@
+@media (min-width: 1400px) {
+}
+
+@media(min-width:1200px) and (max-width:1399.98px){
+    /* navigation css start */
+    .custom-container{
+        max-width: 1100px;
+     }
+    /* navigation css end */
+
+    /* banner css start */
+    .phoneNotch {
+      left: 33% !important;
+    }
+    /* banner css end */
+
+    /*minimal css start*/
+    .minimalImg img {
+      width: 380.68px !important;
+      height: auto !important;
+    }
+
+    .minimalText {
+      padding-top: 0px !important;
+    }
+
+    .minimalEffect img {
+      left: 46px !important;
+      top: -86px !important;
+      height: 400px;
+      width: 400px;
+    }
+    /*minimal css end*/
+
+    /* access css start */
+    .brandIcon a img {
+      width: 88px !important;
+    }
+    /* access css end */
+
+    /* online css start */
+    .onlineMain img {
+      left: 22% !important;
+    }
+    /* online css end */
+}
+
+
+@media(min-width:992px) and (max-width:1199.98px){
+  .uptoOnline video {
+    left: 16% !important;
+  }
+    /* navigation css start */
+    .custom-container{
+        max-width: 960px;
+     }
+
+     .Header_text h1 {
+      font-size: 136.95px !important;
+      padding: 0 !important;
+    }
+    /* navigation css end */
+
+
+       /* banner css start */
+       .phoneNotch {
+        left: 39% !important;
+      }
+       
+       .MainBanner {
+        grid-gap: 2rem;
+      }
+      .bannerText p {
+        width: 522.13px !important;
+      }
+        .bannerText h2 {
+          width: 554.38px !important;
+        }
+        .bannerText {
+          padding-top: 6rem !important;
+        }
+        .MainBanner {
+          grid-template-columns: 40% 58% !important;
+        }
+  /* banner css end */
+
+
+  
+    /*minimal css start*/
+        .MainMinmal{
+          flex-direction: column;
+        } 
+
+  .minimalText h2{
+      text-align: center !important;
+    }
+  .minimalText p{
+      text-align: center !important;
+    }
+  .minimalText h3{
+      text-align: center !important;
+    }
+    .btm {
+      justify-content: center !important;
+    }
+
+    .circle img {
+      left: 353px !important;
+      top: 18px !important;
+      width: 211px;
+    }
+    .minimalImg img {
+      padding-left: 13rem !important;
+    }
+
+
+    .minimalEffect img {
+      left: 247px !important;
+    }
+
+    /*minimal css end*/
+
+    /* access css start */
+    .brandIcon a img {
+      width: 60px !important;
+    }
+    /* access css end */
+
+    /* online css start */
+    .onlineMain img {
+      left: 17% !important;
+      max-width: 100%;
+    }
+    /* online css end */
+
+}
+
+
+@media(min-width:768px) and (max-width:991.98px){
+  .uptoOnline video {
+    left: 3% !important;
+  }
+  .uptoOnline h2 {
+    padding-top: 1rem !important;
+  }
+ /* navigation css start */
+ .custom-container{
+    max-width: 720px;
+ }
+ .Header_text h1 {
+  font-size: 103.95px !important;
+  line-height: 102.61px !important;
+  padding: 0 !important;
+}
+
+
+/* navigation css end */
+
+      /* banner part start */
+      .MainBanner {
+        grid-template-columns: 100% !important;
+      }
+      .phoneNotch{
+        display: none;
+      }
+      .phoneImg{
+        display: none;
+      }
+      .bannerImg video{
+        width: 720px !important;
+      }
+      #Banner{
+        position: relative;
+      }
+      .bannerText{
+        position: absolute;
+        left: 0;
+        top: 0;
+        z-index: 1;
+      }
+      #Banner{
+        height: 753px;
+      }
+
+      .bannerText h2 {
+        text-align: center !important;
+        width:auto !important;
+      }
+
+      .bannerText h3 {
+        line-height: 55.2px !important;
+        text-align: center !important;
+      }
+      .bannerText p {
+        text-align: center !important;
+        width: auto !important;
+      }
+      /* banner part end */
+
+      
+    /*minimal css start*/
+    .MainMinmal{
+      flex-direction: column;
+    } 
+
+.minimalText h2{
+  text-align: center !important;
+}
+.minimalText p{
+  text-align: center !important;
+}
+.minimalText h3{
+  text-align: center !important;
+}
+.btm {
+  justify-content: center !important;
+}
+
+.circle img {
+  left: -136px !important;
+  top: 79px !important;
+  width: 211px;
+}
+.minimalImg img {
+  padding-left: 6rem !important;
+}
+
+
+.minimalEffect img {
+  left: 148px !important;
+}
+.minimalText img {
+  margin-left: 115px !important;
+}
+/*minimal css end*/
+
+
+/* screen css start */
+.mainScreen {
+  grid-template-columns: 50% 50% !important;
+}
+.row{
+  padding-top: 36rem !important;
+}
+.screenText{
+  padding-bottom: 20px;
+} 
+/* screen css end */
+
+
+/* access css start */
+.MainAccess {
+ flex-direction: column;
+}
+
+.accessImg img{
+ display: none;
+}
+
+.accessImg2 img{
+  display: block;
+  width: 100%;
+}
+/* access css end */
+
+/* Quality css start */
+  #quality{
+    margin-top: 15rem;
+  }
+
+  .MainQuality{
+    grid-template-columns: 100% !important;
+  }
+  .qualityText h2{
+    text-align: center !important;
+  }
+  .qualityText p{
+    text-align: center !important;
+    padding-left: 73px;
+    padding-bottom: 20px;
+  }
+
+  .qualityImg img{
+    display: none;
+  }
+  .qualityImg2 img{
+    display: block;
+    max-width: 100%;
+    margin-left: 13rem;
+    padding-bottom: 5rem;
+  }
+/* Quality css end */
+.LastfotterText h2 {
+  font-size: 101.47px !important;
+  line-height: 101px !important;
+}
+
+
+    /* online css start */
+    .onlineMain img {
+      left: 6% !important;
+      max-width: 100%;
+    }
+    /* online css end */
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .uptoOnline video {
+    left: 0% !important;
+    width: 100% !important;
+  }
+  .uptoOnline h2 {
+    padding-top: 7rem !important;
+    font-size: 45.84px !important;
+    line-height: 46.2px !important;
+
+  }
+
+     
+ /* navigation css start */
+ .custom-container{
+    max-width: 540px;
+ }
+ 
+ .Header_text h1 {
+  font-size: 61.21px !important;
+  line-height: 62.9px !important;
+  padding: 3rem !important;
+}
+
+
+/* navigation css end */
+
+   /* banner part start */
+   .MainBanner {
+    grid-template-columns: 100% !important;
+  }
+  .phoneNotch{
+    display: none;
+  }
+  .phoneImg{
+    display: none;
+  }
+  .bannerImg video{
+    width: 540px !important;
+  }
+  #Banner{
+    position: relative;
+  }
+  .bannerText{
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+  }
+  #Banner{
+    height: 753px;
+  }
+
+  .bannerText h2 {
+    text-align: center !important;
+    width:533px !important;
+  }
+
+  .bannerText h3 {
+    line-height: 55.2px !important;
+    text-align: center !important;
+  }
+  .bannerText p {
+    width: 402px !important;
+    padding-left: 90px;
+  }
+  /* banner part end */
+
+  /* online css start */
+    .onlineMain h2{
+      font-size: 45.84px !important;
+      line-height: 46.2px !important;
+      padding-top: 45rem !important;
+    }
+
+  /* online css end */
+ 
+
+   /*minimal css start*/
+   .MainMinmal{
+    flex-direction: column;
+  } 
+
+.minimalText h2{
+  text-align: center !important;
+  font-size: 30.98px !important;
+  width: 288.69px;
+  line-height: 32.6px !important;
+  padding-left: 8rem;
+}
+.minimalText p{
+text-align: center !important;
+font-size: 16.4px !important;
+}
+.minimalText h3{
+text-align: center !important;
+}
+.btm {
+justify-content: center !important;
+}
+
+.circle img {
+  left: 82px !important;
+  top: 56px !important;
+  width: 102px;
+}
+.minimalImg img {
+padding-left: 0 !important;
+}
+
+
+.minimalEffect img {
+left: 0 !important;
+}
+.minimalText img {
+margin-left: 22px !important;
+}
+/*minimal css end*/
+
+
+/* screen css start */
+.screenText1{
+  display: block !important;
+}
+.mainScreen {
+  grid-template-columns: 50% 50% !important;
+}
+.row{
+  padding-top: 20px !important;
+}
+.screenText{
+  padding-bottom: 10px;
+} 
+.abc h2{
+  font-size: 34px !important;
+  padding-bottom: 100px !important;
+}
+.screenText h3{
+  font-size: 16.33px !important;
+}
+.screenText p{
+  font-size: 10.57px !important;
+  line-height: 13.7px !important;
+  width: 148.61px !important;
+}
+
+.screenText h3{
+  font-size: 16.33px !important;
+}
+/* screen css end */
+
+/* access css start */
+.MainAccess {
+  flex-direction: column;
+ }
+ 
+ .accessImg img{
+  display: none;
+ }
+ 
+ .accessText h2{
+  text-align: center !important;
+ }
+ .accessText h3 {
+  text-align: center !important;
+ }
+ .accessText p {
+  text-align: center !important;
+ }
+ .accessImg2 img{
+   display: block;
+   width: 100%;
+ }
+ .brandIcon a img {
+  width: 88px !important;
+}
+ /* access css end */
+
+
+ 
+/* Quality css start */
+#quality{
+  margin-top: 15rem;
+}
+
+.MainQuality{
+  grid-template-columns: 100% !important;
+}
+.qualityText h2{
+  text-align: center !important;
+}
+.qualityText p{
+  text-align: center !important;
+  padding-left: 73px;
+  padding-bottom: 20px;
+  width: 402px !important;
+}
+
+.qualityImg img{
+  display: none;
+}
+.qualityImg2 img{
+  display: block;
+  max-width: 100%;
+  margin-left: 7rem;
+  padding-bottom: 5rem;
+}
+
+/* Quality css end */
+
+.LastfotterText h2 {
+  font-size: 101.47px !important;
+  line-height: 101px !important;
+}
+
+}
+
+
+@media (max-width: 575.98px) {
+  .uptoOnline video {
+    left: 0% !important;
+    width: 100% !important;
+  }
+  .uptoOnline h2 {
+    padding: 3rem !important;
+    font-size: 33.84px !important;
+    line-height: 33.2px !important;
+
+  }
+  /* navigation css start */
+ .custom-container{
+    max-width: 90%;
+ }
+ .button2{
+  margin-top: 15rem;
+ }
+ 
+ .Header_text h1 {
+  font-size: 61.21px !important; 
+  line-height: 62.9px !important;
+  letter-spacing: -4% !important;
+  padding: 0 !important;
+}
+.button2 a{
+  font-size: 27.36px !important;
+  font-weight: 400 !important;
+  padding: 8px 18px !important;
+  background: #FF2E00;
+  color: #1E1D1C !important;
+}
+#Header video{
+  height: 852px !important;
+}
+
+.button2{
+  display: block !important;
+  text-align: center;
+}
+.button{
+  display: none;
+}
+
+.logo a img{
+  width: 41.31px !important;
+  height: 29.66px !important;
+}
+/* navigation css end */
+
+
+
+/* banner part start */
+
+#Banner {
+  padding: 0 !important;
+  background: none !important;
+}
+#Banner #vid{
+  display: block !important;
+  height: 600px;
+}
+.bannerImg video{
+  display: none;
+}
+.MainBanner {
+  grid-template-columns: 100% !important;
+}
+.phoneNotch{
+  display: none;
+}
+.phoneImg{
+  display: none;
+}
+.bannerImg video{
+  width: 100% !important;
+}
+#Banner{
+  position: relative;
+}
+.bannerText{
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 1;
+}
+#Banner{
+  height: 753px;
+}
+
+.bannerText h2 {
+  text-align: center !important;
+  font-size: 41.45px !important;
+  padding: 0 3rem 25px 3rem !important;
+  line-height: 37.12px !important;
+}
+
+
+.bannerText h3 {
+  line-height: 55.2px !important;
+  text-align: center !important;
+  font-size: 23.32px !important;
+  line-height: 37.6px !important;
+}
+.bannerText p {
+  line-height: 17.8px !important;
+  font-size: 13.18px !important;
+  padding-left: 3rem;
+}
+
+/* banner part end */
+
+  /* online css start */
+  .onlineMain h2{
+    font-size: 40.84px !important;
+    line-height: 46.2px !important;
+    padding-top: 45rem !important;
+  }
+
+/* online css end */
+
+
+   /*minimal css start*/
+   .MainMinmal{
+    flex-direction: column;
+  } 
+
+.minimalText h2{
+  text-align: center !important;
+  font-size: 30.98px !important;
+  line-height: 32.6px !important;
+}
+.minimalText p{
+text-align: center !important;
+font-size: 16.4px !important;
+}
+.minimalText h3{
+text-align: center !important;
+font-size: 13.64px !important;
+line-height: 14.4px !important;
+padding: 0 !important;
+}
+.btm {
+justify-content: center !important;
+flex-direction: column;
+}
+
+
+
+.minimalImg img {
+  max-width: 100%;
+  height: auto !important;
+}
+.minimalEffect img {
+  left: 72px !important;
+  top: -3rem !important;
+  width: 233px;
+}
+
+.minimalText img {
+margin-left: 22px !important;
+width: 270px;
+}
+.minimalText img{
+  display: none;
+}
+.circle img{
+  display: block;
+  width: 79px;
+  left: 221px !important;
+  top: 30px !important;
+}
+.minimalText{
+  padding: 0 !important;
+  position: relative;
+}
+
+.minimalText button {
+  font-size: 27px !important;
+  padding: 10px 18px !important;
+  width: 153px;
+}
+
+
+.btm button{
+  display: none;
+}
+
+
+/* screen css start */
+.screenText1{
+  display: block !important;
+}
+.mainScreen {
+  grid-template-columns: 50% 50% !important;
+}
+.row{
+  padding-top: 20px !important;
+  padding-left: 20px !important;
+  padding-bottom: 20px !important;
+}
+.screenText{
+  padding-bottom: 10px;
+} 
+.abc h2{
+  font-size: 34px !important;
+}
+.screenText h3{
+  font-size: 16.33px !important;
+}
+.screenText p{
+  font-size: 10.57px !important;
+  line-height: 13.7px !important;
+  width: 138.63px !important;
+}
+
+.screenText h3{
+  font-size: 16.33px !important;
+  line-height: 19.8px !important;
+  width: 156.75px !important;
+}
+
+.mainScreen {
+  padding-top: 18rem !important;
+}
+/* screen css end */
+
+
+
+/* access css start */
+.MainAccess {
+  flex-direction: column;
+ }
+ 
+ .accessImg img{
+  display: none;
+ }
+ 
+ .accessText h2{
+  text-align: center !important;
+ }
+ .accessText h3 {
+  text-align: center !important;
+ }
+ .accessText p {
+  text-align: center !important;
+ }
+ .accessImg2 img{
+   display: block;
+   width: 100%;
+ }
+ .brandIcon a img {
+  width: 54px !important;
+}
+
+.accessText {
+  padding-top: 135px !important;
+}
+ /* access css end */
+
+ 
+/* Quality css start */
+
+.MainQuality{
+  grid-template-columns: 100% !important;
+}
+.qualityText h2{
+  text-align: center !important;
+  font-size: 33.98px !important;
+  line-height: 32.6px !important;
+}
+.qualityText p{
+  text-align: center !important;
+  padding-bottom: 20px;
+  font-size: 10.64px !important;
+  line-height: 16.4px !important;
+}
+
+.qualityImg img{
+  display: none;
+}
+.qualityImg2 img{
+  display: block;
+}
+
+/* Quality css end */
+
+.LastfotterText h2 {
+  font-size: 43.37px !important;
+  line-height: 34.6px !important;
+  padding-top: 50rem !important;
+}
+
+}
